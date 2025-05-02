@@ -2,7 +2,25 @@
 
 Welcome to **Shell It**, a fun and educational game built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project helps students learn key concepts of absolute and relative paths through interactive gameplay.
 
-> 🔗 **GitHub Repo**: [https://github.com/RiyaChhikara/shell-it-game](https://github.com/RiyaChhikara/shell-it-game)
+
+## 📚 Educational Use & Attribution
+
+This game was featured in **DS105: Data for Data Science** at the **London School of Economics and Political Science (LSE)**.
+
+- 📝 **Course**: DS105 – Data for Data Science
+- 🎓 **Instructor**: [Dr Jonathan Cardoso-Silva](https://github.com/jonjoncardoso)
+- 🎮 **Shell It Game Author**: [Riya Chhikara](https://github.com/RiyaChhikara)  
+- 📁 **Exercise Title**: [*W03 Formative Exercise: Paths, Files, and APIs in the Terminal*](https://lse-dsi.github.io/DS105/2024/winter-term/practice/week03.html) 
+
+
+**🎯 Learning Goals of the Exercise:**
+1. Master file system concepts through an interactive London-based game.  
+2. Navigate directories confidently using essential Terminal commands.  
+3. Explore JSON structures by fetching and manipulating API data.  
+4. Practice professional file documentation and organisation techniques.  
+5. Create a comprehensive learning notebook consolidating Terminal, Python, and file handling skills.
+
+This game was used as an engaging entry point to help students understand how relative and absolute file paths work, with a real-world metaphor inspired by exploring London landmarks.
 
 ---
 
@@ -85,13 +103,3 @@ npm run dev     # Start development server
 npm run build   # Build for production
 npm run lint    # Run ESLint (if configured)
 ```
-
----
-
-## 🧑‍💻 Contributing
-
-Contributions are welcome! Feel free to fork the repo, open issues, or submit a pull request.
-
----
-
-Made with ❤️ by [Riya Chhikara](https://github.com/RiyaChhikara)
