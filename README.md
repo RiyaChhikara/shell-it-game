@@ -3,7 +3,7 @@
 This is a fun and educational game built with **Next.js**, **TypeScript**, and **Tailwind CSS** that helps students learn key concepts of absolute and relative paths through interactive gameplay.
 
 
-## 📚 Educational Use & Attribution
+## 📚 Has anybody used it before?
 
 This game was featured in **DS105: Data for Data Science** at the **London School of Economics and Political Science (LSE)**.
 
