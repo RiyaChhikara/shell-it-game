@@ -1,6 +1,6 @@
-# 🐚 Shell It – Educational Game (Next.js + Tailwind CSS)
+# 🐚 Shell It – Educational Game 
 
-Welcome to **Shell It**, a fun and educational game built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project helps students learn key concepts of absolute and relative paths through interactive gameplay.
+This is a fun and educational game built with **Next.js**, **TypeScript**, and **Tailwind CSS** that helps students learn key concepts of absolute and relative paths through interactive gameplay.
 
 
 ## 📚 Educational Use & Attribution
